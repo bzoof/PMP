@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="Instance Name"
+                 start-page="starter.md">
+
+    <toc-element topic="Project-Performance-md.md"/>
+    <toc-element topic="work-performance-domain.md"/>
+    <toc-element topic="starter.md"/>
+    <toc-element topic="Tailor-md.md"/>
+    <toc-element topic="Quality-md.md"/>
+    <toc-element topic="Complexity-md.md"/>
+    <toc-element topic="Risk-md.md"/>
+    <toc-element topic="Approach Life Cycle Performance.md"/>
+    <toc-element topic="work performance domain.md"/>
+    <toc-element topic="Change Request.md"/>
+</instance-profile>
